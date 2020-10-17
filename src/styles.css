@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  background-color: lightpink;
+}
+
+.portfolio {
+ color: beige;
+}
+
+.container {
+display: flex;
+flex-direction: row;
+}
+
+.project {
+border: 3px solid black;
+}
+
+img {
+  width: 80%;
+}
+
+a {
+border: 2px solid white;
+border-radius: 3px;
+color: beige;
+padding: 2px;
+text-decoration: none;
+}
